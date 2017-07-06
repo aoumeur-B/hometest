@@ -1,0 +1,13 @@
+.carre {
+    height: 60px;
+    width: 60px;
+    border: 1px solid red;
+    background: green;
+
+}
+
+body{
+    height: 800px;
+    width: 600px;
+    border: 0.1px dashed red;
+}
